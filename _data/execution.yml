@@ -1,0 +1,22 @@
+title: We've been there before
+description: 'We know that as an enterprise security leader, you are likely facing these challenges'
+image: 'img/title-icon.png'
+
+slider:
+  - image: 'img/carusel/c1.png'
+  - image: 'img/carusel/c2.png'
+  - image: 'img/carusel/c3.png'
+
+process: 
+  - name: Unseen cyber risk and vulnerabilities
+    image: 'img/stat/s5.png'
+    description: "We've all seen the big headlines of data breaches and it makes up stay up all night thinking if there's just one unknown asset that can be breached. However there's technology to discover unknown exposed assets"
+  
+  - name: Inefficient processes
+    image: 'img/stat/s3.png'
+    description: 'With more sophisticated attacks, every CIO, CTO, CISO and security team works even harder in order to identify practical risks and likely threats. That means more time spent on discover and analysis, which takes time away from taking real action . However, there is technology that can streamline this process.'
+  
+  - name: Small Impact
+    image: 'img/stat/s2.png'
+    description: 'Vulnerability assessments provide a large amount of alerts and its often hard to know what to tackle first in order to have a greater impact. However there is technology to help you prioritize based on risk '
+

@@ -1,0 +1,30 @@
+
+#####################################
+########## Unique Feature ###########
+#####################################
+
+title: 'Built from security experts for security teams'
+description: 'We are a small group of security engineers, vulnerability researchers and tool developers who created a simple way for you to discover, analyze, and take action.'
+image: 'img/title-icon.png' 
+
+main_image_slider: 
+  - image: 'img/carusel/c1.png'
+  - image: 'img/carusel/c2.png'
+  - image: 'img/carusel/c3.png'
+
+section_one_title: 'Discover'
+section_one_description: 'A powerful attack surface scan that can see it all – from systems, networks, applications and many others. '
+section_one_image: http://127.0.0.1:4000/img/feature/f1.png
+section_one_link: '#'
+
+section_two_title: 'Analyze'
+section_two_description: "Sometimes, all you need is a quick overview of what's happening - on your internal infrastructure, digital assets and entities."
+section_two_image: http://127.0.0.1:4000/img/feature/f2.png
+section_two_link: '#'
+
+section_three_title: 'Take action'
+section_three_description: 'Easy-to-understand risk scores to quickly assess risk and know which vulnerabilities to patch first and how'
+section_three_image: http://127.0.0.1:4000/img/feature/f2.png
+section_three_link: '#'
+
+
