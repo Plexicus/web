@@ -4,12 +4,12 @@
 ########## Pricing Tables ###########
 #####################################
 pricing_table_title: 'Select your Best Pricing'
-pricing_table_description: "The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected. "
+pricing_table_description: "Simple and transparent volume-based pricing to cover your entire network. <br>We run Attack Surface Scan and Assessment weekly. Billed annually"
 
 # Personal Plan
 plan_starter_name: Basic
 plan_starter_tagline: Small business holders
-plan_starter_price: '<span>£119</span>'
+plan_starter_price: '<span>£199</span>'
 plan_starter_description: '<li>Up to 2500 live assets</li>'
 plan_starter_url: '#'
 plan_starter_btn_text: 'Buy Now'
@@ -17,7 +17,7 @@ plan_starter_btn_text: 'Buy Now'
 # Team Plan
 plan_standard_name: Advanced
 plan_standard_tagline: Medium business holders
-plan_standard_price: '<span>£399</span>'
+plan_standard_price: '<span>£349</span>'
 plan_standard_description: ' <li>Up to 5000 live assets</li>'
 plan_standard_url: '#'
 plan_standard_btn_text: 'Buy Now'
@@ -30,6 +30,16 @@ plan_business_price: '<span>Get in touch</span>'
 plan_business_description: '<span></span>'
 plan_business_url: '#'
 plan_business_btn_text: 'Buy Now'
+
+
+# Assessments  Plan
+plan_assessments_name: Assessments 
+plan_assessments_tagline: One web/mobile application
+plan_assessments_price: '<span>£125</span>'
+plan_assessments_description: '<span></span>'
+plan_assessments_url: '#'
+plan_assessments_btn_text: 'Buy Now'
+
 
 
 

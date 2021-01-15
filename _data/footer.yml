@@ -8,7 +8,9 @@ title: 'About Us'
 description: 'Plexicus, headquartered in Madrid, Spain is a cybersecurity start-up operating on a global scale.'
 logos: 
 - imgUrl : "img/footer/startup-school.jpg"
-- imgUrl : "img/footer/cyber.jpg"
+  link:  https://www.startupschool.org/ 
+- imgUrl : "img/footer/cyber1.png"
+  link:  https://www.incibe.es/ventures
 
 resources_link_heading: 'Resources'
 resources_link_one_text: 'Guides'

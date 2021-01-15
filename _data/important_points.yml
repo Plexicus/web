@@ -4,20 +4,20 @@
 ######## important points ###########
 #####################################
 
-title: 'Some Important Points to be noted'
-description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+title: 'Key Features'
+description: 'Plexicus automatically assess and understand risk across your entire infrastructure'
 image: 'img/title-icon.png' 
 
 points:
-  - title: 'Search <br> Management<br> System'
+  - title: 'Deep attack surface discovery'
     icon: 'img/points/i1.png'
-    description: 'Staying calm, composed and maintaining strong self esteem in today’s tough environment can be difficult but is not impossible if you follow a few simple guidelines.'
-  - title: 'Data <br> Synchronization <br> Options'
+    description: 'Dynamically discover and automatically assess new infrastructure on a weekly basis, identifying external-facing assets to ensure complete discovery'
+  - title: 'Inventory and Real Priorization'
     icon: 'img/points/i2.png'
-    description: ' We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to day, also asks us to remain physically young. Young at heart. '
-  - title: 'Team <br> Management <br> Facilities'
+    description: 'Comprehensive asset inventory with risk priorization for you to gain a better understanding of the risk in your modern environment'
+  - title: 'Remediation'
     icon: 'img/points/i3.png'
-    description: ' Increasing prosperity in our lives can be accomplished by having the right frame of mind. The truth is, our thoughts are very powerful. They are capable of influencing. '
-  - title: 'Schedule <br> Adjustment <br> System'
+    description: 'Real insights with high impact. Precise priorities, the right remedies, and meaningful analytics.'
+  - title: 'Built in Dashboard'
     icon: 'img/points/i4.png'
-    description: ' Have you ever had a problem with a burned light? Thanks to the effort of Thomas Edison we no longer need to invent a light bulb. We just go to the store.  '
+    description: 'Easy to use dashboard to quantify how your risk has changed over time, and identify your most critical areas for improvement'

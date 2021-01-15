@@ -167,7 +167,7 @@
     .price-top {
         padding: 30px;
         @include transition();
-        h1,
+        h1,h2, 
         h4,
         p {
             @include transition();
@@ -199,8 +199,8 @@
             .overlay-bg {
                 opacity: 1;
             }
-            h1,
-            h4,
+            h1,h2,
+            h4,span,
             p {
                 color: $white;
             }

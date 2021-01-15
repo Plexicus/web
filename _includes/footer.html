@@ -10,7 +10,7 @@
                             {{ site.data.footer.description }}
                         </p>
                         {% for iamges in site.data.footer.logos %}
-                            <img src="{{ iamges.imgUrl | relative_url }}" alt="logo">
+                            <a href= "{{ iamges.link }}"><img src="{{ iamges.imgUrl | relative_url }}" alt="logo"></a>
                         {% endfor %}
                     </div>
                 </div>

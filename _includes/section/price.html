@@ -14,7 +14,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="single-price2">
                         <div class=" price-top aquablue-bg relative">
                             <div class="overlay overlay-bg"></div>
@@ -25,7 +25,8 @@
                                 </p>
                             </div>
                             <div class="price relative">
-                                <h1 class="pt-40 relative">{{ site.data.price.plan_starter_price }}</h1>
+                                
+                                <h2 class="pt-40 relative d-inline">{{ site.data.price.plan_starter_price }}</h2> <span>/month</span>
                                  
                             </div>
                         </div>
@@ -40,7 +41,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="single-price2">
                         <div class=" price-top aquablue-bg relative">
                             <div class="overlay overlay-bg"></div>
@@ -51,7 +52,7 @@
                                 </p>
                             </div>
                             <div class="price relative">
-                                <h1 class="pt-40 relative">{{ site.data.price.plan_standard_price }}</h1>
+                                <h2 class="pt-40 relative d-inline">{{ site.data.price.plan_standard_price }}</h2><span>/month</span>
                                  
                             </div>
                         </div>
@@ -67,7 +68,7 @@
                 </div>
 
 
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="single-price2">
                         <div class=" price-top aquablue-bg relative">
                             <div class="overlay overlay-bg"></div>
@@ -78,7 +79,7 @@
                                 </p>
                             </div>
                             <div class="price relative">
-                                <h1 class="pt-40 relative">{{ site.data.price.plan_business_price }}</h1>
+                                <h2 class="pt-40 relative d-inline">{{ site.data.price.plan_business_price }}</h2><span>/month</span>
                                  
                             </div>
                         </div>
@@ -90,6 +91,35 @@
                             </ul>
                             <a href="{{ site.data.price.plan_business_url }}" class="genric-btn2  mt-30">
                                 {{ site.data.price.plan_business_btn_text }}
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="col-lg-3">
+                    <div class="single-price2">
+                        <div class=" price-top aquablue-bg relative">
+                            <div class="overlay overlay-bg"></div>
+                            <div class="relative">
+                                <h4>{{ site.data.price.plan_assessments_name }}</h4>
+                                <p>
+                                    {{ site.data.price.plan_assessments_tagline }}
+                                </p>
+                            </div>
+                            <div class="price relative">
+                                <h2 class="pt-40 relative d-inline">{{ site.data.price.plan_assessments_price }}</h2><span>/month</span>
+                                 
+                            </div>
+                        </div>
+                        
+
+                        <div class="price-bottom">
+                            <ul class="packlist pt-5">
+                                {{ site.data.price.plan_assessments_description }}
+                            </ul>
+                            <a href="{{ site.data.price.plan_assessments_url }}" class="genric-btn2  mt-30">
+                                {{ site.data.price.plan_assessments_btn_text }}
                             </a>
                         </div>
                     </div>
