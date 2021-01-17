@@ -1,6 +1,6 @@
 ---
 title: How To Set Intentions That Energize You
-image: 'img/blog/b2.jpg'
+image: 'img/blog/b2.png'
 layout: post
 hero: blog_details
 ---
