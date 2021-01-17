@@ -2,7 +2,7 @@
     <!-- Start hero-section -->
     <section class="hero-section-blog-details relative">
         <div class="">
-            <img class="blog-img" src="{{ 'img/blog/blog-details-bg.jpg' | relative_url }}" alt="">
+            <img class="blog-img" src="{{ page.image | relative_url }}" alt="">
         </div>
 
         <div class="content">
@@ -11,7 +11,7 @@
                     <div class="d-flex align-items-center content-wrap-child">
                         <div class="text">
                             <a href="#" class="genric-btn">
-                            {{ page.category | first | default: 'uncategorized' }}
+                                {{ page.category | first | default: 'uncategorized' }}
                             </a>
                         </div>
                         <div class="text">

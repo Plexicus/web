@@ -44,8 +44,8 @@ sass_slider:
 product_name: 'Complete Visibility'
 product_text: 'Manage your entire dynamic attack surface'
 product_image: 'img/hero/hero-img2-1.png'
-product_btn_one_link: '#'
-product_btn_one_text:  'Book your demo'
+product_btn_one_link: '/#early-bird-access'
+product_btn_one_text:  'Early bird access'
 
 # product_video [ video type mp4 ]
 product_video_name: 'The most Creative <br> Theame ever in Business' 
