@@ -1,7 +1,8 @@
 ---
-title: Motivation And Your Personal Vision An Force
+title: Test Motivation
 image: 'img/blog/b3.jpg'
 layout: post
+category: [TI]
 hero: blog_details
 ---
 
