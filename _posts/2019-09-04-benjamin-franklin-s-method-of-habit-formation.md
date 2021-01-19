@@ -2,6 +2,7 @@
 title: Benjamin Franklin S Method Of Habit Formation
 image: 'img/blog/b1.jpg'
 layout: post
+author: 'Sir Alex James'
 hero: blog_details
 ---
 
