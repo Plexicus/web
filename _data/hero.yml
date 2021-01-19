@@ -83,14 +83,24 @@ product_slider:
 # hero-section-blog
 
 blog_slider:
-  - image: 'img/hero/hero-blog.jpg'
+  - image: 'img/hero/hero-banner1.png'
     author: 'Sir Alex James'
-    title: 'The Idea Of God Is <br /> Not Henceforth Relevant'
+    title: 'Attack Surface <br /> Management'
     category: 'Technical'
 
-  - image: 'img/hero/hero-blog.jpg'
+  - image: 'img/hero/hero-banner2.png'
     author: 'Sir Alex James'
-    title: 'The Idea Of God Is <br /> Not Henceforth Relevant '
-    category: 'Art &amp; Fantacy'
+    title: 'Attack Surface <br /> is growing rapidly'
+    category: 'Technical'
+    
+  - image: 'img/hero/hero-banner3.png'
+    author: 'Sir Alex James'
+    title: 'Deep discovery'
+    category: 'Technical'
+
+  - image: 'img/hero/hero-banner4.png'
+    author: 'Sir Alex James'
+    title: 'Attack Surface <br /> Management'
+    category: 'Technical'
 
 
