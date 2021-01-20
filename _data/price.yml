@@ -11,7 +11,7 @@ plan_starter_name: Basic
 plan_starter_tagline: Small business holders
 plan_starter_price: '<span>€199</span>'
 plan_starter_description: '<li>Up to 2500 live assets</li>'
-plan_starter_url: '#'
+plan_starter_url: 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XWGAHZKYTKMQG'
 plan_starter_btn_text: 'Buy Now'
 
 # Team Plan
