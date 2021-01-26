@@ -24,7 +24,7 @@ mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
 adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
 colloque si rediret revulsum praestantior grave ardua narratibus.
 
-img/blog/attack-surface.png
+![](/img/blog/attack-surface.png) 
 
 ## Sua nentes tum anum
 
