@@ -1,29 +1,30 @@
 ---
-title: Test Motivation
+title: What is Attack Surface Management?
 image: 'img/blog/test.jpg'
 layout: post
 category: [TI]
+author: 'Plexicus'
 hero: blog_details
 ---
 
-# Me Amphissos
-
-## Datque creverunt et quota iuvenum
-
-Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
+Attack surface management (ASM) is Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
 nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
 ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
 sibi quis, aethere, filia! Papilione *medium Hippotadae refert* ad culpae
 tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
 pennisque vocibus?
 
-<span>Photo by <a href="https://unsplash.com/@thebrandyk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brandy Kennedy</a> on <a href="https://unsplash.com/t/technology?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+## What's attack surface?
+
 
 Solum **iuvencos**, ibi propulit alumno: et me annis. Torreri [est dari
 hostem](http://requiram-verbisque.io/) gulae, natura illi penates pocula
 mortales; et arva! Crescit et praebet dubio, Martem, nam sorori illis. Concolor
 adimit, aptarique reformet, propioraque habebat fugit Polyphemon levemus,
 colloque si rediret revulsum praestantior grave ardua narratibus.
+
+img/blog/attack-surface.png
 
 ## Sua nentes tum anum
 
@@ -69,3 +70,6 @@ tulisti nunc.
 Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
 **cunctatusque plena**. Campus adstitit tendebant opesque. *Sibi* alios
 adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.
+
+
+<span>Photo by <a href="https://unsplash.com/@thebrandyk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brandy Kennedy</a> on <a href="https://unsplash.com/t/technology?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
