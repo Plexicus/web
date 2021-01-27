@@ -1,6 +1,6 @@
 ---
 title: What is Attack Surface Management?
-image: 'img/blog/test.jpg'
+image: 'img/blog/What_is_attack_surface_management.png'
 layout: post
 category: [TI]
 author: 'Plexicus'
