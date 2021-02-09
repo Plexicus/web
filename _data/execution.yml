@@ -9,7 +9,7 @@ slider:
 
 process: 
   - name: Unseen cyber risk and vulnerabilities
-    image: 'img/stat/s5.png'
+    image: 'img/stat/s5.1.png'
     description: "We've all seen the big headlines of data breaches and it makes up stay up all night thinking if there's just one unknown asset that can be breached. However there's technology to discover unknown exposed assets"
   
   - name: Inefficient processes
