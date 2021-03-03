@@ -43,7 +43,7 @@ sass_slider:
 # product [ only one image ]
 product_name: 'The cybersecurity platform for SMB'
 product_text: 'Manage your entire dynamic attack surface'
-product_image: 'img/hero/hero-img2-2.png.png'
+product_image: 'img/hero/hero-img2-2.png'
 product_btn_one_link: '/#early-bird-access'
 product_btn_one_text:  'Early bird access'
 
