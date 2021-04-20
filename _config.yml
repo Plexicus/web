@@ -119,9 +119,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-ZNT7HGE1G8
     anonymize_ip         : # true, false (default)
 
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
