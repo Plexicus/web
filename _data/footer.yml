@@ -9,8 +9,6 @@ description: 'Plexicus is an european cybersecurity start-up operating on a glob
 logos: 
 - imgUrl : "img/footer/startup-school.jpg"
   link:  https://www.startupschool.org/ 
-- imgUrl : '#'
-  link:  '#'
 
 resources_link_heading: 'Resources'
 resources_link_one_text: 'Guides'
