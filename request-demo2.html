@@ -168,20 +168,79 @@ hero: product
     </section>
     <!-- End demo-request Area 5-->
 
-
-    <!-- Start cta-section -->
+<!-- Start cta-section -->
     <section class="cta-section gradient-bg">
         <div class="container">
             <div class="row align-items-center justify-content-center text-center">
                 <div class="col-lg-8">
-                    <h1 class="text-white mb-5">Fallen in Love with <br>
-                        our features? Get a free trial for 14 days!</h1>
+                    <h1 class="text-white mb-5">{{ site.data.cta.title }}</h1>
                     <div class="cta-btn">
-                        <a href="#" class="ct-btn1 mr-sm-3 mb-sm-0 mb-3">Start free trial</a>
-                        <a href="#" class="ct-btn2 active">Signup</a>
+                        <a href="{{ site.data..cta.btn_link_one }}" class="ct-btn1 mr-sm-3 mb-sm-0 mb-3">{{ site.data.cta.btn_text_one }}</a>
+                        {% if site.data.cta.btn_text_two != ''  %}
+                        <a href="{{ site.data.cta.btn_link_two }}" class="ct-btn2 ">{{ site.data.cta.btn_text_two }}</a>
+                        {% endif %}
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- End cta-section -->
+    
+<!-- Start feature section -->
+    <section id="features" class="feature-section pb-120 pt-90">
+        <div class="container">
+            <div class="row feature-left-wrapr">
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-feature aquablue-bg">
+                        <div class="icon">
+                            <span>
+                                <img width="39" height="40" src="{{ site.data.feature.image_one | relative_url }}"
+                                    class="attachment-image_icon_40x40 size-image_icon_40x40" alt=""> 
+                            </span>
+                        </div>
+                        <div class="desc">
+                            <h4>{{ site.data.feature.title_one }}</h4>
+                            <p class="mb-0">
+                                {{ site.data.feature.description_one }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-feature aquablue-bg">
+                        <div class="icon">
+                            <span>
+                                <img width="40" height="40" src="{{ site.data.feature.image_two | relative_url }}"
+                                    class="attachment-image_icon_40x40 size-image_icon_40x40" alt=""> </span>
+                        </div>
+                        <div class="desc">
+                            <h4>{{ site.data.feature.title_two }}</h4>
+                            <p class="mb-0">
+                                {{ site.data.feature.description_two }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-feature aquablue-bg">
+                        <div class="icon">
+                            <span>
+                                <img width="40" height="36" src="{{ site.data.feature.image_three | relative_url }}"
+                                    class="attachment-image_icon_40x40 size-image_icon_40x40" alt=""> </span>
+                        </div>
+                        <div class="desc">
+                            <h4>{{ site.data.feature.title_three }}</h4>
+                            <p class="mb-0">
+                                {{ site.data.feature.description_three }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End feature Area -->
