@@ -21,29 +21,33 @@ Softdash has been built using a modular, responsive block that makes designing e
 # Template Features
 - Clean & Simple Design
 - 100% Fluid Responsive – Fits any device perfectly
-Touch Friendly. Easy browsing on touch devices.
-SEO on-page optimizated.
-06 Modern and unique Home page
-30+ Premaid Valid HTML.
-Sass/Compass used to style the pages
-Blog and Blog Single.
-Pixel Perfect Design
-Fully Customizable
-Free Google Fonts
-Social Links
-Clean & Commented Code
-Custom Font Support
-Built on Bootstrap 4
-Valid HTML5 & CSS3 Files
-Cross Browser Compatibility
-Flexible Layout
-Well Documented
-Unique effects and functionality
-Awesome Unique Look
-Free Font Based Icons
-Great Support 24/7.
-Tested on real devices
-Google Map with multiple location
-Working PHP AJAX Contact Form
-W3C Validate Code
-RTL Version Ready
+- Touch Friendly. Easy browsing on touch devices.
+- SEO on-page optimizated.
+- 06 Modern and unique Home page
+- 30+ Premaid Valid HTML.
+- Sass/Compass used to style the pages
+- Blog and Blog Single.
+- Pixel Perfect Design
+- Fully Customizable
+- Free Google Fonts
+- Social Links
+- Clean & Commented Code
+- Custom Font Support
+- Built on Bootstrap 4
+- Valid HTML5 & CSS3 Files
+- Cross Browser Compatibility
+- Flexible Layout
+- Well Documented
+- Unique effects and functionality
+- Awesome Unique Look
+- Free Font Based Icons
+- Great Support 24/7.
+- Tested on real devices
+- Google Map with multiple location
+- Working PHP AJAX Contact Form
+- W3C Validate Code
+- RTL Version Ready
+
+# Structure
+The sections Data is associated with the section Includes and finally with the section Site, which has all of the important information of the website. 
+
