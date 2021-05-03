@@ -21,9 +21,9 @@ resources_link_four_text: 'Agencies'
 resources_link_one_link: '#'
 
 
-features_link_heading: 'Features'
-features_link_one_text: 'Guides'
-features_link_one_link: '#'
+features_link_heading: 'Product'
+features_link_one_text: 'Pricing'
+features_link_one_link: 'https://www.plexicus.com/pricing'
 features_link_two_text: 'Research'
 features_link_one_link: '#'
 features_link_three_text: 'Experts'
