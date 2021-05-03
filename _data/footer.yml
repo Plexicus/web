@@ -11,8 +11,8 @@ logos:
   link:  https://www.startupschool.org/ 
 
 resources_link_heading: 'Resources'
-resources_link_one_text: 'Guides'
-resources_link_one_link: '#'
+resources_link_one_text: 'Blog'
+resources_link_one_link: 'https://www.plexicus.com/blog/'
 resources_link_two_text: 'Research'
 resources_link_one_link: '#'
 resources_link_three_text: 'Experts'
