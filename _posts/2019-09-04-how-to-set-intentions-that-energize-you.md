@@ -1,11 +1,11 @@
 ---
-title: How To Set Intentions That Energize You
+title: How to discover new assets
 image: 'img/blog/b2.png'
 layout: post
 hero: blog_details
 ---
 
-# Me Amphissos
+# How to discover new assets
 
 ## Datque creverunt et quota iuvenum
 
