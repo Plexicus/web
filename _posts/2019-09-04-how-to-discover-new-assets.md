@@ -2,6 +2,8 @@
 title: How to discover new assets
 image: 'img/blog/b2.png'
 layout: post
+category: [TI]
+author: 'Plexicus'
 hero: blog_details
 ---
 
