@@ -1,6 +1,6 @@
 ---
 title: How to discover new assets
-image: 'img/blog/p2.png'
+image: 'img/blog/p2.jpg'
 layout: post
 category: [TI]
 author: 'Plexicus'
