@@ -1,14 +1,15 @@
 ---
-title: Benjamin Franklin S Method Of Habit Formation
+title: How to continously monitor your attack surface area
 image: 'img/blog/b1.jpg'
 layout: post
-author: 'Sir Alex James'
+category: [TI]
+author: 'Plexicus'
 hero: blog_details
 ---
 
-# Me Amphissos
+# How to continously monitor your attack surface area
 
-## Datque creverunt et quota iuvenum
+## Datque creverunt et quota iuvenum 
 
 Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
 nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
