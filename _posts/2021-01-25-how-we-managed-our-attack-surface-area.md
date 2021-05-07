@@ -11,7 +11,7 @@ This is a product validation case study for Plexicus. After 12 months of struggl
 
 
 
-Back in 2020, we read a lot of articles on how to reduce, minimize your attack surface area, however deep down we felt something was not right. 
+Back in 2020, we read a lot of articles on how to reduce our attack surface area, however deep down we felt something was not right. 
 
 
 
@@ -23,11 +23,11 @@ I know what you're thinking, but our business model and the fast growing attacks
 
 
 
-In the end, you discovered that minimize it even further, it's just an illusion, that's the **Aha moment!** when you know that your focus as a technology leader is to manage it, yeah....manage it as better as you can. 
+In the end, we discovered that minimize it even further, it's just an illusion. That was our **Aha moment!** when we realized that our focus as technology leaders was to manage it, yeah....manage it as better as we can. 
 
 
 
-A couple of questions came to our minds, the first one, and I think the most important was... **How do I start?**
+A couple of questions came to our minds, the first one, and I think the most important was... **How do we start?**
 
 
 
@@ -51,6 +51,7 @@ Some tools that were very helpful were:
 
 
 ## Bringing order to the chaos
+
 
 
 Well… We were busting our asses trying to come up with different strategies and methods to order things around. 
@@ -78,6 +79,7 @@ Things started to look up from there.
 
 
 ## That's how we started to manage our attack surface area
+
 
 
 1. Align your team 
