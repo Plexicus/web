@@ -33,7 +33,6 @@ A couple of questions came to our minds, the first one, and I think the most imp
 
 ## The beggining
 
-
 We started by looking at our calendar. Time was scatterd as usual but we knew we needed to make time for more frecuent security assessments. 
 
 
@@ -51,7 +50,6 @@ Some tools that were very helpful were:
 
 
 ## Bringing order to the chaos
-
 
 
 Well… We were busting our asses trying to come up with different strategies and methods to order things around. 
@@ -92,7 +90,7 @@ Things started to look up from there.
 ### Case Study: Conclusion
 
 
-Considering our initial goal was to sucessfully manage our attack surface, I’d call this a success.
+Considering our initial goal was to sucessfully manage our attack surface, we’d call this a success.
 
 
 
