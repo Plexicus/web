@@ -80,11 +80,11 @@ Things started to look up from there.
 
 
 
-1. Align your team 
-2. Prioritize the discovery of new assets
-3. Analyze the information further 
-4. Focus on whats important and most impactful
-5. Increase automation
+- Align your team 
+- Prioritize the discovery of new assets
+- Analyze the information further 
+- Focus on whats important and most impactful
+- Increase automation
 
 
 ### Case Study: Conclusion
