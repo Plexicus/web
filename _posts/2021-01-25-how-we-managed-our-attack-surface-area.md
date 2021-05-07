@@ -7,7 +7,7 @@ author: 'Isabel'
 hero: blog_details
 ---
 
-This is a product validation case study for Plexicus. After 12 months of struggle, we finally validated a step by step guide to manage your attack surface area.
+This is a product validation case study for Plexicus. After 12 months of struggle, we finally validated a 5 step process to succesfully to manage our attack surface area.
 
 
 
